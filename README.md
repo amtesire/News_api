@@ -25,6 +25,7 @@ In context, your parents are busy workers and they get home really late. They al
 
 ## Link to Heroku
 
+https://tesinewsapi.herokuapp.com/
 
 ### License
 MIT License
